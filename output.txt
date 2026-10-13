@@ -1,0 +1,51 @@
+================================
+   VEHICLE PARKING MANAGEMENT
+================================
+1. Add Car
+2. Add Bike
+3. Show Vehicles
+4. Search Vehicle
+5. Calculate Parking Fee
+6. Show Parking Rules
+7. Show Total Vehicles
+8. Exit
+Enter your choice: 1
+Enter car number: KA01AB1234
+Enter owner name: SAKSHI
+Enter number of doors: 4
+Vehicle added to slot 1
+
+================================
+   VEHICLE PARKING MANAGEMENT
+================================
+1. Add Car
+2. Add Bike
+3. Show Vehicles
+4. Search Vehicle
+5. Calculate Parking Fee
+6. Show Parking Rules
+7. Show Total Vehicles
+8. Exit
+Enter your choice: 2
+Enter bike number: KAO2XY5678
+Enter owner name: DHANASHREE
+Does the bike have gears? (yes/no): YES
+Vehicle added to slot 2
+
+================================
+   VEHICLE PARKING MANAGEMENT
+================================
+1. Add Car
+2. Add Bike
+3. Show Vehicles
+4. Search Vehicle
+5. Calculate Parking Fee
+6. Show Parking Rules
+7. Show Total Vehicles
+8. Exit
+Enter your choice: 3
+
+--- Parked Vehicles ---
+Vehicle Number: KA01AB1234, Owner Name: SAKSHI, Number of Doors: 4
+Vehicle Number: KAO2XY5678, Owner Name: DHANASHREE, Has Gear: true
+
